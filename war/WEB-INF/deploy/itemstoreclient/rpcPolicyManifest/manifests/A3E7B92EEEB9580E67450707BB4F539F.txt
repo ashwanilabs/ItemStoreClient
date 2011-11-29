@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.itemstoreclient.client.ItemStoreClientService
+path: 77D125627B39BE4B58CC6073D19A39CB.gwt.rpc
